@@ -1,0 +1,9 @@
+{
+    "name": "@spygar-pim-edition/admin",
+    "version": "0.1.0",
+    "private": true,
+    "main": "src/main.tsx",
+    "dependencies": {
+        "@spygar-pim-edition/shared": "link:../shared"
+    }
+}
